@@ -1,5 +1,5 @@
 # Ignore secrets file
 secrets.sh
 *.pyc
-env
+venv
 DNU*
